@@ -1,0 +1,21 @@
+/* App.css */
+
+nav {
+  padding: 10px;
+  background-color: #282c34;
+}
+
+nav a {
+  color: #61dafb;
+  text-decoration: none;
+  margin: 0 10px;
+}
+
+nav a.active {
+  font-weight: bold;
+  color: #ffffff;
+}
+
+div {
+  padding: 20px;
+}
